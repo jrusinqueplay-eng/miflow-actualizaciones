@@ -1,6 +1,6 @@
 {
  "app": "MiFlow",
- "serie": 20261009220011,
+ "serie": 20261009221750,
  "fecha": "2026-10-09",
  "version_ultima": "1.1",
  "version_minima": "1.0",
@@ -28,7 +28,8 @@
    "todo": "Todo el contenido",
    "descargar": "Descargar",
    "personaje": "Personaje",
-   "nuevo_proyecto": "Nuevo proyecto"
+   "nuevo_proyecto": "Nuevo proyecto",
+   "anadir_peticion": "Añadir a petición"
   },
   "en": {
    "anadir": "Add ingredients to the prompt box",
@@ -47,7 +48,8 @@
    "todo": "All media",
    "descargar": "Download",
    "personaje": "Character",
-   "nuevo_proyecto": "New project"
+   "nuevo_proyecto": "New project",
+   "anadir_peticion": "Add to prompt"
   }
  }
 }
