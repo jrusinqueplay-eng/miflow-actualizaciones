@@ -1,6 +1,6 @@
 {
  "app": "MiFlow",
- "serie": 20261009221750,
+ "serie": 20261009230724,
  "fecha": "2026-10-09",
  "version_ultima": "1.1",
  "version_minima": "1.0",
@@ -51,5 +51,6 @@
    "nuevo_proyecto": "New project",
    "anadir_peticion": "Add to prompt"
   }
- }
+ },
+ "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev"
 }
