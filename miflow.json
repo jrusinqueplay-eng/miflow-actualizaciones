@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261009230724,
+ "serie": 20261009231155,
  "fecha": "2026-10-09",
- "version_ultima": "1.1",
+ "version_ultima": "1.2",
  "version_minima": "1.0",
- "notas": "",
+ "notas": "• «Reportar error» ahora envía el reporte directo al soporte.\n• Vigilante: si Google cambia Flow, MiFlow se detiene y avisa solo al soporte.\n• Los @personajes entran bien aunque haya imágenes con el mismo nombre.\n• Arreglado: el segundo lote fallaba si no se creaba un proyecto nuevo.\n• Compatible con Flow en inglés.",
  "aviso": "",
- "exe_url": "",
- "exe_sha256": "",
- "exe_tamano": 0,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v1.2/MiFlow.exe",
+ "exe_sha256": "39ccc08a4393c386093caa87243753af54d87065acc3b2567dacbba70de81f54",
+ "exe_tamano": 73841580,
  "ajustes": {},
  "textos": {
   "es": {
