@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261009231155,
- "fecha": "2026-10-09",
- "version_ultima": "1.2",
+ "serie": 20261010012100,
+ "fecha": "2026-10-10",
+ "version_ultima": "1.3",
  "version_minima": "1.0",
- "notas": "• «Reportar error» ahora envía el reporte directo al soporte.\n• Vigilante: si Google cambia Flow, MiFlow se detiene y avisa solo al soporte.\n• Los @personajes entran bien aunque haya imágenes con el mismo nombre.\n• Arreglado: el segundo lote fallaba si no se creaba un proyecto nuevo.\n• Compatible con Flow en inglés.",
+ "notas": "• NUEVO: pestaña 🎬 Vídeo — anima tus imágenes con Grok (tu SuperGrok o la API de xAI).\n• El Chrome de MiFlow ya no se abre al arrancar: se abre al pulsar Iniciar y trabaja en segundo plano.\n• Ajustes con sección Grok (clave de la API cifrada) y desplazable en pantallas pequeñas.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v1.2/MiFlow.exe",
- "exe_sha256": "39ccc08a4393c386093caa87243753af54d87065acc3b2567dacbba70de81f54",
- "exe_tamano": 73841580,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v1.3/MiFlow.exe",
+ "exe_sha256": "168253fad67f8c4a665bd2ff6a2f4574314edce6b51ef183353a3f4f7162ceea",
+ "exe_tamano": 73885938,
  "ajustes": {},
  "textos": {
   "es": {
