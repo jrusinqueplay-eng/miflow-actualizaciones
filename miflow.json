@@ -1,0 +1,53 @@
+{
+ "app": "MiFlow",
+ "serie": 20261009220011,
+ "fecha": "2026-10-09",
+ "version_ultima": "1.1",
+ "version_minima": "1.0",
+ "notas": "",
+ "aviso": "",
+ "exe_url": "",
+ "exe_sha256": "",
+ "exe_tamano": 0,
+ "ajustes": {},
+ "textos": {
+  "es": {
+   "anadir": "Añadir ingredientes a ventana para peticiones",
+   "generar": "Iniciar generación",
+   "ajustes": "Activador de ajustes",
+   "modelos": "Seleccionar familia de modelos",
+   "imagen": "Imagen",
+   "ingrediente": "Ingrediente",
+   "subir_archivo": "Subir archivo",
+   "subir": "Subir",
+   "derechos": "Derechos para usar esta imagen",
+   "nombre_pj": "Nombre del personaje",
+   "editar_nombre": "Editar nombre",
+   "personalidad": "Personalidad del personaje",
+   "hecho": "Hecho",
+   "todo": "Todo el contenido",
+   "descargar": "Descargar",
+   "personaje": "Personaje",
+   "nuevo_proyecto": "Nuevo proyecto"
+  },
+  "en": {
+   "anadir": "Add ingredients to the prompt box",
+   "generar": "Start generation",
+   "ajustes": "Settings trigger",
+   "modelos": "Select model family",
+   "imagen": "Image",
+   "ingrediente": "Ingredient",
+   "subir_archivo": "Upload media",
+   "subir": "Upload",
+   "derechos": "Rights to use this image",
+   "nombre_pj": "Character name",
+   "editar_nombre": "Edit name",
+   "personalidad": "Character personality",
+   "hecho": "Done",
+   "todo": "All media",
+   "descargar": "Download",
+   "personaje": "Character",
+   "nuevo_proyecto": "New project"
+  }
+ }
+}
