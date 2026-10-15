@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261015101417,
+ "serie": 20261015103212,
  "fecha": "2026-10-15",
- "version_ultima": "2.0",
- "version_minima": "2.0",
- "notas": "• NUEVO: licencia con código MIFLOW-… (se pide y se renueva por Telegram) y modo gratis: 5 imágenes y 2 vídeos al día.\n• NUEVO: la cola del Lote, como Auto Flow: cada fila con su referencia; ejecutar, reintentar y descargar las seleccionadas; pausar y detener.\n• Arrastra imágenes desde el Explorador a Lote, Referencias, Personajes y Vídeo.\n• Vídeo: el % de cada vídeo en grande y la barra «Uso de Grok» (lo gastado esta semana, cuándo se renueva y, si llegas al límite, MiFlow sigue solo al renovarse).\n• Más rápido y mejor protegido.",
+ "version_ultima": "2.0.1",
+ "version_minima": "2.0.1",
+ "notas": "• Arreglo: «Mostrar Chrome de MiFlow» vuelve a abrir la ventana aunque la hayas cerrado.\n• El Chrome de MiFlow se abre con las dos pestañas: Flow y Grok.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.0/MiFlow.exe",
- "exe_sha256": "cc5737c6093aac41fdb3342067488982b43b7c7e3f84d4b0a0a2ac6742934bb0",
- "exe_tamano": 46769152,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.0.1/MiFlow.exe",
+ "exe_sha256": "b0bf25fad33105d129a0b217b98aadd3bbd896f54463319e5de11502f12fff18",
+ "exe_tamano": 46769664,
  "ajustes": {},
  "textos": {
   "es": {
