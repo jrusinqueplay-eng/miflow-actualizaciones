@@ -1,7 +1,7 @@
 {
  "app": "MiFlow",
- "serie": 20261010012100,
- "fecha": "2026-10-10",
+ "serie": 20261014221415,
+ "fecha": "2026-10-14",
  "version_ultima": "1.3",
  "version_minima": "1.0",
  "notas": "• NUEVO: pestaña 🎬 Vídeo — anima tus imágenes con Grok (tu SuperGrok o la API de xAI).\n• El Chrome de MiFlow ya no se abre al arrancar: se abre al pulsar Iniciar y trabaja en segundo plano.\n• Ajustes con sección Grok (clave de la API cifrada) y desplazable en pantallas pequeñas.",
@@ -52,5 +52,6 @@
    "anadir_peticion": "Add to prompt"
   }
  },
- "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev"
+ "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev",
+ "contacto_url": "https://t.me/SHADOWKRATOS"
 }
