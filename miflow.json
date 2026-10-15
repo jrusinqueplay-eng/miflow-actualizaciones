@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261015100806,
+ "serie": 20261015101417,
  "fecha": "2026-10-15",
- "version_ultima": "1.3",
- "version_minima": "1.0",
- "notas": "• NUEVO: pestaña 🎬 Vídeo — anima tus imágenes con Grok (tu SuperGrok o la API de xAI).\n• El Chrome de MiFlow ya no se abre al arrancar: se abre al pulsar Iniciar y trabaja en segundo plano.\n• Ajustes con sección Grok (clave de la API cifrada) y desplazable en pantallas pequeñas.",
+ "version_ultima": "2.0",
+ "version_minima": "2.0",
+ "notas": "• NUEVO: licencia con código MIFLOW-… (se pide y se renueva por Telegram) y modo gratis: 5 imágenes y 2 vídeos al día.\n• NUEVO: la cola del Lote, como Auto Flow: cada fila con su referencia; ejecutar, reintentar y descargar las seleccionadas; pausar y detener.\n• Arrastra imágenes desde el Explorador a Lote, Referencias, Personajes y Vídeo.\n• Vídeo: el % de cada vídeo en grande y la barra «Uso de Grok» (lo gastado esta semana, cuándo se renueva y, si llegas al límite, MiFlow sigue solo al renovarse).\n• Más rápido y mejor protegido.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v1.3/MiFlow.exe",
- "exe_sha256": "168253fad67f8c4a665bd2ff6a2f4574314edce6b51ef183353a3f4f7162ceea",
- "exe_tamano": 73885938,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.0/MiFlow.exe",
+ "exe_sha256": "cc5737c6093aac41fdb3342067488982b43b7c7e3f84d4b0a0a2ac6742934bb0",
+ "exe_tamano": 46769152,
  "ajustes": {},
  "textos": {
   "es": {
