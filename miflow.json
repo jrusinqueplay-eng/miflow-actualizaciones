@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261015103212,
- "fecha": "2026-10-15",
- "version_ultima": "2.0.1",
- "version_minima": "2.0.1",
- "notas": "• Arreglo: «Mostrar Chrome de MiFlow» vuelve a abrir la ventana aunque la hayas cerrado.\n• El Chrome de MiFlow se abre con las dos pestañas: Flow y Grok.",
+ "serie": 20261020225724,
+ "fecha": "2026-10-20",
+ "version_ultima": "2.2.0",
+ "version_minima": "2.2.0",
+ "notas": "JR Suite AI 2.2.0 (antes MiFlow): nuevo nombre y logo. Programar hace vídeos completos desde un tema o tu guion (de 30 s a 1 hora) con la receta de tu canal, cola de la noche y Vídeos listos. Agente con chat propio (Claude Code, Codex y Antigravity CLI). Montaje con vista previa, variedad de movimientos y transiciones y subtítulos. Gemini para imágenes, estilos de imagen, todas tus voces y Conexiones con Claude y Antigravity.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.0.1/MiFlow.exe",
- "exe_sha256": "b0bf25fad33105d129a0b217b98aadd3bbd896f54463319e5de11502f12fff18",
- "exe_tamano": 46769664,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.0/JRSuiteAI.exe",
+ "exe_sha256": "1c60dc59b909ff0e27738b59c31c07b27a65cbfd5537f84e8b46eddc78432b7d",
+ "exe_tamano": 54289408,
  "ajustes": {},
  "textos": {
   "es": {
@@ -53,5 +53,23 @@
   }
  },
  "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev",
- "contacto_url": "https://t.me/SHADOWKRATOS"
+ "contacto_url": "https://t.me/SHADOWKRATOS",
+ "versiones": [
+  {
+   "version": "2.2.0",
+   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.0/JRSuiteAI.exe",
+   "sha256": "1c60dc59b909ff0e27738b59c31c07b27a65cbfd5537f84e8b46eddc78432b7d",
+   "tamano": 54289408,
+   "notas": "JR Suite AI 2.2.0 (antes MiFlow): nuevo nombre y logo. Programar hace vídeos completos desde un tema o tu guion (de 30 s a 1 hora) con la receta de tu canal, cola de la noche y Vídeos listos. Agente con chat propio (Claude Code, Codex y Antigravity CLI). Montaje con vista previa, variedad de movimientos y transiciones y subtítulos. Gemini para imágenes, estilos de imagen, todas tus voces y Conexiones con Claude y Antigravity.",
+   "fecha": "2026-10-20"
+  },
+  {
+   "version": "2.0.1",
+   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.0.1/MiFlow.exe",
+   "sha256": "b0bf25fad33105d129a0b217b98aadd3bbd896f54463319e5de11502f12fff18",
+   "tamano": 46769664,
+   "notas": "• Arreglo: «Mostrar Chrome de MiFlow» vuelve a abrir la ventana aunque la hayas cerrado.\n• El Chrome de MiFlow se abre con las dos pestañas: Flow y Grok.",
+   "fecha": "2026-10-15"
+  }
+ ]
 }
