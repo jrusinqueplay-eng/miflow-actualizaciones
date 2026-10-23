@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261020230742,
- "fecha": "2026-10-20",
- "version_ultima": "2.2.1",
- "version_minima": "2.2.1",
- "notas": "JR Suite AI 2.2.1: versión limpia de la 2.2 (el programa viene en blanco: cada uno pone su licencia, sus cuentas y sus claves). Programar hace vídeos completos desde un tema o tu guion con la receta de tu canal y la cola de la noche; Agente con chat propio (Claude Code, Codex y Antigravity CLI); Montaje con vista previa y variedad; Gemini para imágenes, estilos de imagen y todas tus voces.",
+ "serie": 20261023153009,
+ "fecha": "2026-10-23",
+ "version_ultima": "2.2.2",
+ "version_minima": "2.2.2",
+ "notas": "Claude en la web ya maneja JR Suite AI por internet (modo agente, plan Ultra). Más seguridad en el modo agente.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.1/JRSuiteAI.exe",
- "exe_sha256": "db85bc5c0ecf1bb5031cddff14680b26411e0d8549c41adbbec1de9b585218b1",
- "exe_tamano": 53721600,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.2/JRSuiteAI.exe",
+ "exe_sha256": "87a871db022b85abbf7e1d8b03faff090a56d1fec0c3912e5cdd93c0ad485c59",
+ "exe_tamano": 53721088,
  "ajustes": {},
  "textos": {
   "es": {
@@ -55,6 +55,14 @@
  "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev",
  "contacto_url": "https://t.me/SHADOWKRATOS",
  "versiones": [
+  {
+   "version": "2.2.2",
+   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.2/JRSuiteAI.exe",
+   "sha256": "87a871db022b85abbf7e1d8b03faff090a56d1fec0c3912e5cdd93c0ad485c59",
+   "tamano": 53721088,
+   "notas": "Claude en la web ya maneja JR Suite AI por internet (modo agente, plan Ultra). Más seguridad en el modo agente.",
+   "fecha": "2026-10-23"
+  },
   {
    "version": "2.2.1",
    "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.1/JRSuiteAI.exe",
