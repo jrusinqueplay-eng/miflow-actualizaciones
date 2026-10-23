@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261023153550,
+ "serie": 20261023165912,
  "fecha": "2026-10-23",
- "version_ultima": "2.2.2",
- "version_minima": "2.2.2",
- "notas": "Claude en la web ya maneja JR Suite AI por internet (modo agente, plan Ultra). Más seguridad en el modo agente.",
+ "version_ultima": "2.2.3",
+ "version_minima": "2.2.3",
+ "notas": "Arregla el aviso «Sin licencia activa» que podía salir en el modo agente aunque la licencia fuera válida.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.2/JRSuiteAI.exe",
- "exe_sha256": "87a871db022b85abbf7e1d8b03faff090a56d1fec0c3912e5cdd93c0ad485c59",
- "exe_tamano": 53721088,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.3/JRSuiteAI.exe",
+ "exe_sha256": "a4b49ee435b2e03153f60e4d6f433b9631cb4ac2517d0cfc4b5a971959b01a93",
+ "exe_tamano": 53726720,
  "ajustes": {},
  "textos": {
   "es": {
@@ -55,6 +55,14 @@
  "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev",
  "contacto_url": "https://t.me/SHADOWKRATOS",
  "versiones": [
+  {
+   "version": "2.2.3",
+   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.3/JRSuiteAI.exe",
+   "sha256": "a4b49ee435b2e03153f60e4d6f433b9631cb4ac2517d0cfc4b5a971959b01a93",
+   "tamano": 53726720,
+   "notas": "Arregla el aviso «Sin licencia activa» que podía salir en el modo agente aunque la licencia fuera válida.",
+   "fecha": "2026-10-23"
+  },
   {
    "version": "2.2.2",
    "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.2/JRSuiteAI.exe",
