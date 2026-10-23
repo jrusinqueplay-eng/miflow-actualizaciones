@@ -1,6 +1,6 @@
 {
  "app": "MiFlow",
- "serie": 20261023153009,
+ "serie": 20261023153550,
  "fecha": "2026-10-23",
  "version_ultima": "2.2.2",
  "version_minima": "2.2.2",
@@ -70,14 +70,6 @@
    "tamano": 53721600,
    "notas": "JR Suite AI 2.2.1: versión limpia de la 2.2 (el programa viene en blanco: cada uno pone su licencia, sus cuentas y sus claves). Programar hace vídeos completos desde un tema o tu guion con la receta de tu canal y la cola de la noche; Agente con chat propio (Claude Code, Codex y Antigravity CLI); Montaje con vista previa y variedad; Gemini para imágenes, estilos de imagen y todas tus voces.",
    "fecha": "2026-10-20"
-  },
-  {
-   "version": "2.0.1",
-   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.0.1/MiFlow.exe",
-   "sha256": "b0bf25fad33105d129a0b217b98aadd3bbd896f54463319e5de11502f12fff18",
-   "tamano": 46769664,
-   "notas": "• Arreglo: «Mostrar Chrome de MiFlow» vuelve a abrir la ventana aunque la hayas cerrado.\n• El Chrome de MiFlow se abre con las dos pestañas: Flow y Grok.",
-   "fecha": "2026-10-15"
   }
  ],
  "retiradas": []
