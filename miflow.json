@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261023165912,
- "fecha": "2026-10-23",
- "version_ultima": "2.2.3",
- "version_minima": "2.2.3",
- "notas": "Arregla el aviso «Sin licencia activa» que podía salir en el modo agente aunque la licencia fuera válida.",
+ "serie": 20261107171833,
+ "fecha": "2026-11-07",
+ "version_ultima": "2.2.5",
+ "version_minima": "2.2.5",
+ "notas": "Flow: arreglado elegir Veo 3.1 Fast, Quality y Omni 1.1 (Google les puso un aviso) y nuevo Omni 1.2 Flash de 4 a 15 s; los modelos que Google retira el 5-12 pasan solos a su reemplazo. Arranca mucho más rápido y borra los temporales viejos. Si el Chrome se cuelga se reinicia solo. KIE: GPT Image 2.6 Economy, Kling 4.0 y 4.0 Flash, Seedance 2.5, Grok Video 1.5 y Wan 3.0. ElevenLabs v4.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.3/JRSuiteAI.exe",
- "exe_sha256": "a4b49ee435b2e03153f60e4d6f433b9631cb4ac2517d0cfc4b5a971959b01a93",
- "exe_tamano": 53726720,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.5/JRSuiteAI.exe",
+ "exe_sha256": "077b373379ba46771fcc52b3b9613c496f606e8db0d1e4e749f61e13792bf1c6",
+ "exe_tamano": 53870592,
  "ajustes": {},
  "textos": {
   "es": {
@@ -55,6 +55,14 @@
  "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev",
  "contacto_url": "https://t.me/SHADOWKRATOS",
  "versiones": [
+  {
+   "version": "2.2.5",
+   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.5/JRSuiteAI.exe",
+   "sha256": "077b373379ba46771fcc52b3b9613c496f606e8db0d1e4e749f61e13792bf1c6",
+   "tamano": 53870592,
+   "notas": "Flow: arreglado elegir Veo 3.1 Fast, Quality y Omni 1.1 (Google les puso un aviso) y nuevo Omni 1.2 Flash de 4 a 15 s; los modelos que Google retira el 5-12 pasan solos a su reemplazo. Arranca mucho más rápido y borra los temporales viejos. Si el Chrome se cuelga se reinicia solo. KIE: GPT Image 2.6 Economy, Kling 4.0 y 4.0 Flash, Seedance 2.5, Grok Video 1.5 y Wan 3.0. ElevenLabs v4.",
+   "fecha": "2026-11-07"
+  },
   {
    "version": "2.2.3",
    "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.3/JRSuiteAI.exe",
