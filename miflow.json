@@ -1,14 +1,14 @@
 {
  "app": "MiFlow",
- "serie": 20261107171833,
- "fecha": "2026-11-07",
- "version_ultima": "2.2.5",
- "version_minima": "2.2.5",
- "notas": "Flow: arreglado elegir Veo 3.1 Fast, Quality y Omni 1.1 (Google les puso un aviso) y nuevo Omni 1.2 Flash de 4 a 15 s; los modelos que Google retira el 5-12 pasan solos a su reemplazo. Arranca mucho más rápido y borra los temporales viejos. Si el Chrome se cuelga se reinicia solo. KIE: GPT Image 2.6 Economy, Kling 4.0 y 4.0 Flash, Seedance 2.5, Grok Video 1.5 y Wan 3.0. ElevenLabs v4.",
+ "serie": 20261110213606,
+ "fecha": "2026-11-10",
+ "version_ultima": "2.2.6",
+ "version_minima": "2.2.6",
+ "notas": "Modo agente: vídeos de personajes que hablan (hojas de personaje, escenas, Grok, diálogo con una voz por personaje y montaje). Arreglos: Grok en español ya no dice «No has iniciado sesión» y no se queda esperando con 2 vídeos a la vez; Flow guarda el nombre de los personajes; el montaje ya no corta el vídeo, no pinta una franja roja con color y exporta proyectos largos; subtítulos con el texto exacto del guion.",
  "aviso": "",
- "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.5/JRSuiteAI.exe",
- "exe_sha256": "077b373379ba46771fcc52b3b9613c496f606e8db0d1e4e749f61e13792bf1c6",
- "exe_tamano": 53870592,
+ "exe_url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.6/JRSuiteAI.exe",
+ "exe_sha256": "a4f8c2caaf01f830a325b686c2c1b3b1282ba50b00ae5511dc404f28eaa65daa",
+ "exe_tamano": 53967872,
  "ajustes": {},
  "textos": {
   "es": {
@@ -55,6 +55,14 @@
  "buzon_url": "https://miflow-buzon.jrusinqueplay.workers.dev",
  "contacto_url": "https://t.me/SHADOWKRATOS",
  "versiones": [
+  {
+   "version": "2.2.6",
+   "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.6/JRSuiteAI.exe",
+   "sha256": "a4f8c2caaf01f830a325b686c2c1b3b1282ba50b00ae5511dc404f28eaa65daa",
+   "tamano": 53967872,
+   "notas": "Modo agente: vídeos de personajes que hablan (hojas de personaje, escenas, Grok, diálogo con una voz por personaje y montaje). Arreglos: Grok en español ya no dice «No has iniciado sesión» y no se queda esperando con 2 vídeos a la vez; Flow guarda el nombre de los personajes; el montaje ya no corta el vídeo, no pinta una franja roja con color y exporta proyectos largos; subtítulos con el texto exacto del guion.",
+   "fecha": "2026-11-10"
+  },
   {
    "version": "2.2.5",
    "url": "https://github.com/jrusinqueplay-eng/miflow-actualizaciones/releases/download/v2.2.5/JRSuiteAI.exe",
